@@ -2,12 +2,12 @@
 # Have to store slots
 # Basic functions (According to the question)
 # Todo
-# 1. Create slots - Done
-# 2. Assign the nearest Slot to the Car Done
-# 3. Remove cars from slots Done
-# 4. Show the status of the slots Done
-# 5. Show registration no of cars with a particular colour Done
-# 6. Show slot No of cars with a particular Colour Done
+# 1. Create slots
+# 2. Assign the nearest Slot to the Car
+# 3. Remove cars from slots
+# 4. Show the status of the slots
+# 5. Show registration no of cars with a particular colour
+# 6. Show slot No of cars with a particular Colour
 # 7. Show slot no for a registration number
 from ParkingSlot import ParkingSlot
 from Car import Car
